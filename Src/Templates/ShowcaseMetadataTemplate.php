@@ -390,7 +390,7 @@
     }
         </script>
     
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBl0kprYFb9gns3L5wSuOkrUAhhZwgp4Qg&callback=initMap&output=embed" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=yourApiyinitMap&output=embed" async defer></script>
     
 
 
